@@ -1,5 +1,5 @@
 # Ignore everything
 
 .vscode
-.vscode/*
 *.exe
+todo.md
